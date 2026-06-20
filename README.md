@@ -1,5 +1,8 @@
 # type-simulator
 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/eklid)
+
+
 > 🇫🇷 Français | 🇬🇧 English
 
 ---
